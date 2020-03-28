@@ -1,35 +1,31 @@
+<p align="center"><img src="https://www.diw.co.id/images/logo-diw.co.id.png" width="500"></p>
+
+<p align="center">
+<a href="https://travis-ci.org/andrisunardi/toggle-dark-light-mode"><img src="https://travis-ci.org/andrisunardi/toggle-dark-light-mode.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/andrisunardi/toggle-dark-light-mode"><img src="https://poser.pugx.org/andrisunardi/toggle-dark-light-mode/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/andrisunardi/toggle-dark-light-mode"><img src="https://poser.pugx.org/andrisunardi/toggle-dark-light-mode/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/andrisunardi/toggle-dark-light-mode"><img src="https://poser.pugx.org/andrisunardi/toggle-dark-light-mode/license.svg" alt="License"></a>
+</p>
+
 # Toggle Dark/Light Mode
 
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+This project
 
-Name : DIW.co.id<br>
-Tags : Company Profile<br>
-Date : October 27, 2015<br>
-User : DIW.co.id<br>
-Link : www.diw.co.id (Live)<br>
+```
+Run git clone https://github.com/andrisunardi/toggle-dark-light-mode
+```
 
-## SOCIAL MEDIA
-Facebook : <br>
-Twitter : https://twitter.com/diw_co_id/status/1124890544000208896<br>
-Instagram : https://www.instagram.com/p/BtQ4lkolMau<br>
-Youtube : <br>
-Pinterest : <br>
+```
+Run localhost/toggle-dark-light-mode
+```
 
-# DESCRIPTION
-DIW (Develop Inspire Website) adalah sebuah jasa pembuatan website dengan teknik PHP dan database mysql yang menghubungkan anda dengan situs website. Kami membantu anda pada usaha atau company profile yang anda buat untuk terhubung secara online.
+### DIW.co.id
+DIW.co.id (Digital In Website) adalah sebuah jasa pembuatan website dengan teknik PHP dan database mysql yang menghubungkan anda dengan situs website. Kami membantu anda pada usaha atau company profile yang anda buat untuk terhubung secara online.
 
-Kebanyakan sekarang ini, para masyarakat sudah menggunakan komputer, laptop, maupun smartphone. Tentu hal ini memudahkan para masyarakat mengetahui usaha atau profile anda secara mudah dan di akses oleh seluruh pengguna, mulai dari kota anda, negara anda(indonesia), bahkan di internasional!
+### CONTACT US
+Line : <a href="https://line.me/ti/p/~diw.co.id">diw.co.id</a><br>
+Whatsapp : <a href="https://api.whatsapp.com/send?phone=6287871113361&text=Halo, saya mengetahui nomor ini dari Github">087871113361</a><br>
+Email : <a href="mailto:info@diw.co.id">info@diw.co.id</a><br>
+Website : <a href="https://www.diw.co.id">www.diw.co.id</a><br>
 
-Tentu kami menawarkan harga dan fitur beda dari yang lain. Harga yang kami tawarkan tidak murah, kenapa? Karena kami mengkoding dari awal dengan memakai PHP code dan perpaduan SQL Database.
-
-Kemudian untuk fitur, kami menggunakan hosting dan domain yang ternama. White SEO, Database Produk Anda, dan kami tetap memfollow anda.
-
-# CONTACT US
-Line : diw.co.id<br>
-Whatsapp : 087871113361<br>
-Email : info@diw.co.id<br>
-Website : www.diw.co.id<br>
-
-# © Copyright 2015 ® DIW.co.id™ . All Rights Reserved.
-
-#diw #diw_co_id #web #site #webs #website #websites #webdesign #websitedesign #webdevelopment #websitedevelopment #webservices #websiteservices #webdesigner #websitedesigner #webdeveloper #websitedeveloper #webmaster #websitemaster #webhosting #websitehosting #webpage #websitepage #webagency #websiteagency #webbuilder #websitebuilder #websitelaunch #websitemarketing #websitemurah
+###### <p align="center">© Copyright 2015 - 2020 ® DIW.co.id™ . All Rights Reserved.</p>
