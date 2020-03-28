@@ -1,12 +1,14 @@
 # Toggle Dark/Light Mode
 
+<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+
 Name : DIW.co.id<br>
 Tags : Company Profile<br>
 Date : October 27, 2015<br>
 User : DIW.co.id<br>
 Link : www.diw.co.id (Live)<br>
 
-# SOCIAL MEDIA
+## SOCIAL MEDIA
 Facebook : <br>
 Twitter : https://twitter.com/diw_co_id/status/1124890544000208896<br>
 Instagram : https://www.instagram.com/p/BtQ4lkolMau<br>

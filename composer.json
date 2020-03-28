@@ -1,0 +1,26 @@
+{
+    "name": "andrisunardi/toggle-dark-light-mode",
+    "type": "project",
+    "description": "Toggle Dark/Light Mode",
+    "keywords": [
+        "html",
+        "toggle",
+        "dark mode"
+    ],
+    "homepage": "https://github.com/andrisunardi/toggle-dark-light-mode",
+    "license": "MIT",
+    "authors": [{
+        "name": "Andri Sunardi",
+        "email": "info@andrisunardi.com",
+        "homepage": "https://www.andrisunardi.com",
+        "role": "Developer"
+    }],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
+}
